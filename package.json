@@ -1,0 +1,16 @@
+{
+  "name": "fa68845c-8832-4e37-a0e7-8bfb5077fffb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@plasmicapp/loader": "^0.0.30",
+    "next": "10.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
